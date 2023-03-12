@@ -1,0 +1,10 @@
+elasticsearch:
+  address: "http://34.125.234.135:9200"
+  username: "derick"
+  password: "welcome"
+
+gcs:
+  bucket: "derick-appstore"
+
+token:
+  secret: "secret"
