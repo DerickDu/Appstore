@@ -9,4 +9,5 @@
 /.viminfo
 /.vscode-server
 /.wget-hsts
-/.deploy.yml
+conf
+deploy.yml
