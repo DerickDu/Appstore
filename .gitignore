@@ -11,3 +11,4 @@
 /.wget-hsts
 conf
 deploy.yml
+/go/scr/go/src/appstore/conf
